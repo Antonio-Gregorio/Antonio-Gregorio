@@ -8,16 +8,17 @@ I'm Antonio, 20 years old and currently live in Santa Catarina/Brazil, working a
 
 * Languages
   
-    [![HTML](icons/html-5.png)]()
+[![HTML](icons/html-5.png)]()
 [![CSS](icons/css3.png)]()
 [![JS](icons/javascript.png)]()
-[![C](icons/c.png)]()
 [![C++](icons/c++.png)]()
 [![PHP](icons/php.png)]()
+[![PYTHON](icons/python.png)]()
 
 * Tecnologies
   
-    [![NodeJS](icons/node-js.png)]()
+[![NodeJS](icons/node-js.png)]()
+[![React](icons/react.png)]
 [![JQuery](icons/j-query.png)]()
 [![Bootstrap4](icons/bootstrap4.png)]()
 
