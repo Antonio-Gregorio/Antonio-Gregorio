@@ -18,7 +18,7 @@ I'm Antonio, 20 years old and currently live in Santa Catarina/Brazil, working a
 * Tecnologies
   
 [![NodeJS](icons/node-js.png)]()
-[![React](icons/react.png)]
+[![React](icons/react.png)]()
 [![JQuery](icons/j-query.png)]()
 [![Bootstrap4](icons/bootstrap4.png)]()
 
