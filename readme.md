@@ -1,36 +1,63 @@
-  ## Prazer, meu nome é Antonio. 🎉
-  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Gregorio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Gregorio&layout=compact&langs_count=7&theme=github_dark"/>
-  </div>
+# Olá! Eu sou Antonio 👋
 
-* Languages
-  
-[![HTML](icons/html-5.png)]()
-[![CSS](icons/css3.png)]()
-[![JS](icons/javascript.png)]()
-[![C++](icons/c++.png)]()
-[![PHP](icons/php.png)]()
-[![PYTHON](icons/python.png)]()
+**Software Architect** com mais de 5 anos de experiência em desenvolvimento de software.
 
-* Tecnologies
-  
-[![NodeJS](icons/node-js.png)]()
-[![React](icons/react.png)]()
-[![JQuery](icons/j-query.png)]()
-[![Bootstrap4](icons/bootstrap4.png)]()
+Sou apaixonado por desafios e por entender como as coisas funcionam em sua essência. Gosto de explorar diferentes áreas, do **backend ao frontend e do software ao hardware**, sempre buscando aprender, evoluir e compartilhar conhecimento.
 
+---
 
-* Database
+## 🛠️ Tech Stack
 
-    [![MySQL](icons/mysql.png)]()
-[![Oracle](icons/oracle.png)]()
+### 💻 Desenvolvimento
 
-* Tools
-  
-    [![VsCode](icons/vscode.png)]()
-[![ArchLinux](icons/archlinux.png)]()
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,python,nodejs,typescript,javascript&perline=8" />
+</p>
 
+### 🌐 Frontend
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind&perline=8" />
+</p>
 
+### 🗄️ Bancos de Dados
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="48" />
+</p>
+
+### ⚙️ Infraestrutura & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,bitbucket&perline=8" />
+</p>
+
+---
+
+## 🚀 Atuação
+
+- 🏗️ Arquitetura de software e design de sistemas
+- ⚙️ Desenvolvimento backend e APIs
+- 🌐 Desenvolvimento full-stack
+- 🗄️ Modelagem e otimização de bancos de dados
+- 🔧 Evolução e modernização de sistemas legados
+- 🐳 Infraestrutura e deploy
+- 📚 Aprendizado contínuo e compartilhamento de conhecimento
+
+---
+
+## 🧠 Além do código
+
+Gosto de entender os fundamentos por trás daquilo que utilizo, explorando diferentes áreas da tecnologia por curiosidade e aprendizado.
+
+Do desenvolvimento de software e arquitetura de sistemas até hardware, infraestrutura e computação de baixo nível.
+
+Acredito que entender **como as coisas funcionam** é tão importante quanto saber **como utilizá-las**.
+
+---
+
+<p align="center">
+  <i>"Always learning, always building."</i>
+</p>
